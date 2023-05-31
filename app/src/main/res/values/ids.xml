@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="animalResource" type="id" />
+    <item name="name" type="id" />
+    <item name="animalDescription" type="id" />
+    <item name="populationSize" type="id" />
+    <item name="list_animal" type="id" />
+    <item name="fabPlayPause" type="id" />
+    <item name="seekBarHint" type="id" />
+    <item name="seekBar" type="id" />
+    <item name="seekBarz" type="id" />
+</resources>
